@@ -1,0 +1,10 @@
+@media (min-width: 576px) {
+    .carousel-item img {
+        height: 400px;
+        max-height: 400px;
+    }
+}
+.custom-card-size {
+    height: 150px;
+    max-height: 150px;
+}
